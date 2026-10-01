@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+!.env.local.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+node_modules/
+.next/
+.npm-cache/
+local.properties

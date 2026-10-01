@@ -1,0 +1,1 @@
+"""Expense Diary backend application."""
